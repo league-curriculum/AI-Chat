@@ -15,35 +15,7 @@
 		"context": ".."
 	},
 
-	"containerEnv": {
-		"SDL_VIDEO_WINDOW_POS": "0,0", // GUI Windows all the way in the upper left. 
-		"SDL_AUDIODRIVER": "dummy" // Disable audio
-    }, 
-	
-	// Features to add to the dev container. More info: https://containers.dev/features.
-	"features": {
-		"ghcr.io/devcontainers/features/desktop-lite:1": {},
-		"ghcr.io/va-h/devcontainers-features/uv:1": {}
-	},
-
-
-
-	// Use 'forwardPorts' to make a list of ports inside the container available locally.
-	"forwardPorts":  [6080, 5901],
-
-	"portsAttributes":  {
-		"6080":{
-			"label": "VNC Web Screen"
-		},
-		"5901":{
-			"label":"VNC App"
-		}
-	},
-
-
-	// Use 'postCreateCommand' to run commands after the container is created.
-    //"postCreateCommand": "bash ./.jtl/setup.sh ${containerWorkspaceFolder}",
-    "postCreateCommand": "uv venv .venv &&  uv pip sync",
+    "postCreateCommand": "python3 -m pip install --upgrade pip && python3 -m pip install -r requirements.txt",
 
     "customizations": {
 	    "codespaces": {
@@ -63,6 +35,4 @@
 		  }
 	    }
   	}
-	// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
-	// "remoteUser": "root"
 }
