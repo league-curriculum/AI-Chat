@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" viewBox="0 0 800 500" width="800" height="500">
+  <defs/>
+  <g id="Canvas_1" fill="none" fill-opacity="1" stroke-opacity="1" stroke-dasharray="none" stroke="none">
+    <title>Canvas 1</title>
+    <rect fill="white" x="0" y="0" width="800" height="500"/>
+    <g id="Canvas_1_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_2">
+        <path d="M 10 0 L 790 0 C 795.52285 33817688e-23 800 4.4771525 800 10 L 800 490 C 800 495.52285 795.52285 500 790 500 L 10 500 C 4.4771525 500 67635375e-23 495.52285 0 490 L 30198066e-21 10 C 3087442e-20 4.4771525 4.4771525 -67635375e-23 10 0 Z" fill="#f8f9fa"/>
+      </g>
+      <g id="Graphic_3">
+        <title>Text</title>
+        <text transform="translate(237.95312 17.69336)" fill="black">
+          <tspan font-family="Arial" font-size="24" fill="black" x="0" y="22" xml:space="preserve">Simple Neural Network (2-2-2)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_4">
+        <title>Text</title>
+        <text transform="translate(54.96924 63.52002)" fill="black">
+          <tspan font-family="Arial" font-size="18" fill="black" x="0" y="16" xml:space="preserve">Input Layer</tspan>
+        </text>
+      </g>
+      <g id="Graphic_5">
+        <title>Text</title>
+        <text transform="translate(346.4658 63.52002)" fill="black">
+          <tspan font-family="Arial" font-size="18" fill="black" x="0" y="16" xml:space="preserve">Hidden Layer</tspan>
+        </text>
+      </g>
+      <g id="Graphic_6">
+        <title>Text</title>
+        <text transform="translate(647.96875 63.52002)" fill="black">
+          <tspan font-family="Arial" font-size="18" fill="black" x="0" y="16" xml:space="preserve">Output Layer</tspan>
+        </text>
+      </g>
+      <g id="Graphic_7">
+        <circle cx="100" cy="200" r="30.0000479370569" fill="#6fa8dc"/>
+        <circle cx="100" cy="200" r="30.0000479370569" stroke="#333" stroke-linecap="butt" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_8">
+        <title>Text</title>
+        <text transform="translate(93.77344 190.89062)" fill="white">
+          <tspan font-family="Arial" font-size="16" fill="white" x="0" y="14" xml:space="preserve">x</tspan>
+          <tspan font-family="Helvetica" font-size="16" fill="white" y="14" xml:space="preserve">₁</tspan>
+        </text>
+      </g>
+      <g id="Graphic_9">
+        <circle cx="100" cy="350" r="30.0000479370569" fill="#6fa8dc"/>
+        <circle cx="100" cy="350" r="30.0000479370569" stroke="#333" stroke-linecap="butt" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_10">
+        <title>Text</title>
+        <text transform="translate(93.77734 340.89062)" fill="white">
+          <tspan font-family="Arial" font-size="16" fill="white" x="0" y="14" xml:space="preserve">x</tspan>
+          <tspan font-family="Helvetica" font-size="16" fill="white" y="14" xml:space="preserve">₂</tspan>
+        </text>
+      </g>
+      <g id="Graphic_11">
+        <circle cx="400" cy="200" r="30.0000479370569" fill="#93c47d"/>
+        <circle cx="400" cy="200" r="30.0000479370569" stroke="#333" stroke-linecap="butt" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_12">
+        <title>Text</title>
+        <text transform="translate(393.3242 190.89062)" fill="white">
+          <tspan font-family="Arial" font-size="16" fill="white" x="0" y="14" xml:space="preserve">h</tspan>
+          <tspan font-family="Helvetica" font-size="16" fill="white" y="14" xml:space="preserve">₁</tspan>
+        </text>
+      </g>
+      <g id="Graphic_13">
+        <circle cx="400" cy="350" r="30.0000479370569" fill="#93c47d"/>
+        <circle cx="400" cy="350" r="30.0000479370569" stroke="#333" stroke-linecap="butt" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_14">
+        <title>Text</title>
+        <text transform="translate(393.32812 340.89062)" fill="white">
+          <tspan font-family="Arial" font-size="16" fill="white" x="0" y="14" xml:space="preserve">h</tspan>
+          <tspan font-family="Helvetica" font-size="16" fill="white" y="14" xml:space="preserve">₂</tspan>
+        </text>
+      </g>
+      <g id="Graphic_15">
+        <circle cx="700" cy="200" r="30.0000479370569" fill="#e06666"/>
+        <circle cx="700" cy="200" r="30.0000479370569" stroke="#333" stroke-linecap="butt" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_16">
+        <title>Text</title>
+        <text transform="translate(693.7734 190.89062)" fill="white">
+          <tspan font-family="Arial" font-size="16" fill="white" x="0" y="14" xml:space="preserve">y</tspan>
+          <tspan font-family="Helvetica" font-size="16" fill="white" y="14" xml:space="preserve">₁</tspan>
+        </text>
+      </g>
+      <g id="Graphic_17">
+        <circle cx="700" cy="350" r="30.0000479370569" fill="#e06666"/>
+        <circle cx="700" cy="350" r="30.0000479370569" stroke="#333" stroke-linecap="butt" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_18">
+        <title>Text</title>
+        <text transform="translate(693.77734 340.89062)" fill="white">
+          <tspan font-family="Arial" font-size="16" fill="white" x="0" y="14" xml:space="preserve">y</tspan>
+          <tspan font-family="Helvetica" font-size="16" fill="white" y="14" xml:space="preserve">₂</tspan>
+        </text>
+      </g>
+      <g id="Line_19">
+        <line x1="130" y1="200" x2="370" y2="200" stroke="#333" stroke-linecap="butt" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_20">
+        <title>Text</title>
+        <text transform="translate(223.33984 176.7378)" fill="black">
+          <tspan font-family="Arial" font-size="14" fill="black" x="0" y="13" xml:space="preserve">w</tspan>
+          <tspan font-family="Helvetica" font-size="14" fill="black" y="13" xml:space="preserve">₁₁</tspan>
+          <tspan font-family="Arial" font-size="14" fill="black" y="13" xml:space="preserve"> = 0.5</tspan>
+        </text>
+      </g>
+      <g id="Line_21">
+        <line x1="130" y1="200" x2="370" y2="350" stroke="#333" stroke-linecap="butt" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_22">
+        <title>Text</title>
+        <text transform="translate(124.00119 244.771)" fill="black">
+          <tspan font-family="Arial" font-size="14" fill="black" x="0" y="13" xml:space="preserve">w</tspan>
+          <tspan font-family="Helvetica" font-size="14" fill="black" y="13" xml:space="preserve">₁₂</tspan>
+          <tspan font-family="Arial" font-size="14" fill="black" y="13" xml:space="preserve"> = 0.3</tspan>
+        </text>
+      </g>
+      <g id="Line_23">
+        <line x1="130" y1="350" x2="370" y2="200" stroke="#333" stroke-linecap="butt" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_24">
+        <title>Text</title>
+        <text transform="translate(303.65912 244.771)" fill="black">
+          <tspan font-family="Arial" font-size="14" fill="black" x="0" y="13" xml:space="preserve">w</tspan>
+          <tspan font-family="Helvetica" font-size="14" fill="black" y="13" xml:space="preserve">₂₁</tspan>
+          <tspan font-family="Arial" font-size="14" fill="black" y="13" xml:space="preserve"> = 0.9</tspan>
+        </text>
+      </g>
+      <g id="Line_25">
+        <line x1="130" y1="350" x2="370" y2="350" stroke="#333" stroke-linecap="butt" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_26">
+        <title>Text</title>
+        <text transform="translate(223.34668 356.7378)" fill="black">
+          <tspan font-family="Arial" font-size="14" fill="black" x="0" y="13" xml:space="preserve">w</tspan>
+          <tspan font-family="Helvetica" font-size="14" fill="black" y="13" xml:space="preserve">₂₂</tspan>
+          <tspan font-family="Arial" font-size="14" fill="black" y="13" xml:space="preserve"> = 0.1</tspan>
+        </text>
+      </g>
+      <g id="Line_27">
+        <line x1="430" y1="200" x2="670" y2="200" stroke="#333" stroke-linecap="butt" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_28">
+        <title>Text</title>
+        <text transform="translate(524.895 176.7378)" fill="black">
+          <tspan font-family="Arial" font-size="14" fill="black" x="0" y="13" xml:space="preserve">v</tspan>
+          <tspan font-family="Helvetica" font-size="14" fill="black" y="13" xml:space="preserve">₁₁</tspan>
+          <tspan font-family="Arial" font-size="14" fill="black" y="13" xml:space="preserve"> = 0.8</tspan>
+        </text>
+      </g>
+      <g id="Line_29">
+        <line x1="430" y1="200" x2="670" y2="350" stroke="#333" stroke-linecap="butt" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_30">
+        <title>Text</title>
+        <text transform="translate(603.4167 244.771)" fill="black">
+          <tspan font-family="Arial" font-size="14" fill="black" x="0" y="13" xml:space="preserve">v</tspan>
+          <tspan font-family="Helvetica" font-size="14" fill="black" y="13" xml:space="preserve">₁₂</tspan>
+          <tspan font-family="Arial" font-size="14" fill="black" y="13" xml:space="preserve"> = 0.4</tspan>
+        </text>
+      </g>
+      <g id="Line_31">
+        <line x1="430" y1="350" x2="670" y2="200" stroke="#333" stroke-linecap="butt" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_32">
+        <title>Text</title>
+        <text transform="translate(439.6846 244.771)" fill="black">
+          <tspan font-family="Arial" font-size="14" fill="black" x="0" y="13" xml:space="preserve">v</tspan>
+          <tspan font-family="Helvetica" font-size="14" fill="black" y="13" xml:space="preserve">₂₁</tspan>
+          <tspan font-family="Arial" font-size="14" fill="black" y="13" xml:space="preserve"> = 0.6</tspan>
+        </text>
+      </g>
+      <g id="Line_33">
+        <line x1="430" y1="350" x2="670" y2="350" stroke="#333" stroke-linecap="butt" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_34">
+        <title>Text</title>
+        <text transform="translate(524.90186 356.7378)" fill="black">
+          <tspan font-family="Arial" font-size="14" fill="black" x="0" y="13" xml:space="preserve">v</tspan>
+          <tspan font-family="Helvetica" font-size="14" fill="black" y="13" xml:space="preserve">₂₂</tspan>
+          <tspan font-family="Arial" font-size="14" fill="black" y="13" xml:space="preserve"> = 0.2</tspan>
+        </text>
+      </g>
+      <g id="Graphic_35">
+        <path d="M 405 120 L 475 120 C 477.7614 120 480 122.23858 480 125 L 480 140 C 480 142.76142 477.7614 145 475 145 L 405 145 C 402.2386 145 400 142.76142 400 140 L 400 125 C 400 122.23858 402.2386 120 405 120 Z" fill="white"/>
+        <path d="M 405 120 L 475 120 C 477.7614 120 480 122.23858 480 125 L 480 140 C 480 142.76142 477.7614 145 475 145 L 405 145 C 402.2386 145 400 142.76142 400 140 L 400 125 C 400 122.23858 402.2386 120 405 120 Z" stroke="#333" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_36">
+        <title>Text</title>
+        <text transform="translate(416.4502 124.7378)" fill="black">
+          <tspan font-family="Arial" font-size="14" fill="black" x="0" y="13" xml:space="preserve">b</tspan>
+          <tspan font-family="Helvetica" font-size="14" fill="black" y="13" xml:space="preserve">₁</tspan>
+          <tspan font-family="Arial" font-size="14" fill="black" y="13" xml:space="preserve"> = 0.2</tspan>
+        </text>
+      </g>
+      <g id="Graphic_37">
+        <path d="M 405 420 L 475 420 C 477.7614 420 480 422.2386 480 425 L 480 440 C 480 442.7614 477.7614 445 475 445 L 405 445 C 402.2386 445 400 442.7614 400 440 L 400 425 C 400 422.2386 402.2386 420 405 420 Z" fill="white"/>
+        <path d="M 405 420 L 475 420 C 477.7614 420 480 422.2386 480 425 L 480 440 C 480 442.7614 477.7614 445 475 445 L 405 445 C 402.2386 445 400 442.7614 400 440 L 400 425 C 400 422.2386 402.2386 420 405 420 Z" stroke="#333" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_38">
+        <title>Text</title>
+        <text transform="translate(414.12256 424.7378)" fill="black">
+          <tspan font-family="Arial" font-size="14" fill="black" x="0" y="13" xml:space="preserve">b</tspan>
+          <tspan font-family="Helvetica" font-size="14" fill="black" y="13" xml:space="preserve">₂</tspan>
+          <tspan font-family="Arial" font-size="14" fill="black" y="13" xml:space="preserve"> = -0.1</tspan>
+        </text>
+      </g>
+      <g id="Graphic_39">
+        <path d="M 705 120 L 775 120 C 777.7614 120 780 122.23858 780 125 L 780 140 C 780 142.76142 777.7614 145 775 145 L 705 145 C 702.2386 145 700 142.76142 700 140 L 700 125 C 700 122.23858 702.2386 120 705 120 Z" fill="white"/>
+        <path d="M 705 120 L 775 120 C 777.7614 120 780 122.23858 780 125 L 780 140 C 780 142.76142 777.7614 145 775 145 L 705 145 C 702.2386 145 700 142.76142 700 140 L 700 125 C 700 122.23858 702.2386 120 705 120 Z" stroke="#333" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_40">
+        <title>Text</title>
+        <text transform="translate(716.8433 124.7378)" fill="black">
+          <tspan font-family="Arial" font-size="14" fill="black" x="0" y="13" xml:space="preserve">c</tspan>
+          <tspan font-family="Helvetica" font-size="14" fill="black" y="13" xml:space="preserve">₁</tspan>
+          <tspan font-family="Arial" font-size="14" fill="black" y="13" xml:space="preserve"> = 0.3</tspan>
+        </text>
+      </g>
+      <g id="Graphic_41">
+        <path d="M 705 420 L 775 420 C 777.7614 420 780 422.2386 780 425 L 780 440 C 780 442.7614 777.7614 445 775 445 L 705 445 C 702.2386 445 700 442.7614 700 440 L 700 425 C 700 422.2386 702.2386 420 705 420 Z" fill="white"/>
+        <path d="M 705 420 L 775 420 C 777.7614 420 780 422.2386 780 425 L 780 440 C 780 442.7614 777.7614 445 775 445 L 705 445 C 702.2386 445 700 442.7614 700 440 L 700 425 C 700 422.2386 702.2386 420 705 420 Z" stroke="#333" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_42">
+        <title>Text</title>
+        <text transform="translate(716.8467 424.7378)" fill="black">
+          <tspan font-family="Arial" font-size="14" fill="black" x="0" y="13" xml:space="preserve">c</tspan>
+          <tspan font-family="Helvetica" font-size="14" fill="black" y="13" xml:space="preserve">₂</tspan>
+          <tspan font-family="Arial" font-size="14" fill="black" y="13" xml:space="preserve"> = 0.5</tspan>
+        </text>
+      </g>
+      <g id="Graphic_43">
+        <title>Text</title>
+        <text transform="translate(294.0158 456.2383)" fill="black">
+          <tspan font-family="Arial" font-size="16" fill="black" x="0" y="14" xml:space="preserve">Hidden Layer Activation: sigmoid</tspan>
+        </text>
+      </g>
+      <g id="Graphic_44">
+        <title>Text</title>
+        <text transform="translate(570.5469 456.2383)" fill="black">
+          <tspan font-family="Arial" font-size="16" fill="black" x="0" y="14" xml:space="preserve">Output Layer Activation: sigmoid</tspan>
+        </text>
+      </g>
+      <g id="Graphic_45">
+        <path d="M 55 440 L 255 440 C 257.76142 440 260 442.2386 260 445 L 260 485 C 260 487.7614 257.76142 490 255 490 L 55 490 C 52.238576 490 50 487.7614 50 485 L 50 445 C 50 442.2386 52.238576 440 55 440 Z" fill="#eee"/>
+        <path d="M 55 440 L 255 440 C 257.76142 440 260 442.2386 260 445 L 260 485 C 260 487.7614 257.76142 490 255 490 L 55 490 C 52.238576 490 50 487.7614 50 485 L 50 445 C 50 442.2386 52.238576 440 55 440 Z" stroke="#999" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_46">
+        <title>Text</title>
+        <text transform="translate(89.50391 453.75977)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" fill="black" x="0" y="11" xml:space="preserve">sigmoid(x) = 1/(1+e^(-x))</tspan>
+        </text>
+      </g>
+      <g id="Graphic_47">
+        <title>Text</title>
+        <text transform="translate(112.75635 470.2998)" fill="black">
+          <tspan font-family="Helvetica" font-size="10" fill="black" x="0" y="10" xml:space="preserve">Activation Function</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+messages:
+  - role: system
+    content: 'You are an expert in everything. '
+  - role: user
+    content: 'Tell me a joke about {{topic}}.'
+model: openai/gpt-4o
