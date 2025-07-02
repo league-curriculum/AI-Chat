@@ -17,3 +17,7 @@ fi
 if ! grep -Fq "Custom newline prompt from dotfiles" ~/.bashrc; then
   echo "$APPEND_BLOCK" >> ~/.bashrc
 fi
+
+
+python3 -m pip install --upgrade pip
+python3 -m pip install -r requirements.txt

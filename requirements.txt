@@ -5,3 +5,4 @@ openai
 pandas
 scikit-learn
 statsmodels
+azure-ai-inference
